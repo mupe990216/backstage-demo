@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: mupe990216/backstage-demo
 spec:
   type: website
-  owner: backstage/maintainers
+  owner: guests
   lifecycle: experimental
