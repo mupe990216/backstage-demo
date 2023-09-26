@@ -13,7 +13,7 @@ lerna-debug.log*
 coverage
 
 # Dependencies
-# node_modules/
+node_modules/
 
 # Node version directives
 .nvmrc
