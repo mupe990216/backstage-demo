@@ -1,0 +1,19 @@
+{
+  "name": "url-resolve-browser",
+  "version": "1.2.0",
+  "description": "resolve urls in the browser like url.resolve in node.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austin-rausch/url-resolve-browser"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "Austin Rausch",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
